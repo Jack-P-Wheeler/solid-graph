@@ -1,17 +1,17 @@
 {
-  "name": "{{name_of_lib}}",
+  "name": "solid-graph",
   "version": "0.0.0",
-  "description": "{{desc_of_lib}}",
+  "description": "A node based graph visualizer built in Solid JS.",
   "license": "MIT",
-  "author": "{{me}}",
+  "author": "Jack-P-Wheeler",
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/{{me}}/{{name_of_lib}}.git"
+    "url": "git+https://github.com/Jack-P-Wheeler/solid-graph.git"
   },
-  "homepage": "https://github.com/{{me}}/{{name_of_lib}}#readme",
+  "homepage": "https://github.com/Jack-P-Wheeler/solid-graph#readme",
   "bugs": {
-    "url": "https://github.com/{{me}}/{{name_of_lib}}/issues"
+    "url": "https://github.com/Jack-P-Wheeler/solid-graph/issues"
   },
   "files": [
     "dist"
